@@ -1,2 +1,5 @@
 # MIT-Python
-MITx: 6.00.1x 
+
+
+Program files for the MIT Course :  Introduction to Computer Science and Programming Using Python
+
