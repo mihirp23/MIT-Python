@@ -31,7 +31,7 @@ def isWordGuessed(secretWord, lettersGuessed):
            break
    return is_guess_right
        
-# count_substr()
+# isWordGuessed()
 
 if __name__ == "__main__":
     main()
